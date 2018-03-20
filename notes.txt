@@ -11,3 +11,10 @@ ASP.Net Web App
     Tick Web-ApI
 Add Entity-Data-Model
 Add Controller Using Entity Framework
+
+Database Login:
+	SwindustryAdmin
+	SwindustryPass1
+
+API Link:
+	http://swindustrybankingapi.azurewebsites.net/
