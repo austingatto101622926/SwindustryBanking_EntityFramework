@@ -1,0 +1,13 @@
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-2
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+
+Packages:
+    Entity-Framework, duh
+    Microsoft.AspNet.WebApi.Client for ReadAsAsync
+    ??? Newtonsoft.Json ??? I dont know if this eneded up being used, i dont think so.
+
+ASP.Net Web App
+    Empty
+    Tick Web-ApI
+Add Entity-Data-Model
+Add Controller Using Entity Framework
